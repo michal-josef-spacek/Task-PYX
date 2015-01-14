@@ -1,0 +1,25 @@
+NAME
+    Task::PYX - Install the PYX modules.
+
+SYNOPSIS
+     cpanm Task::PYX
+
+SEE ALSO
+    PYX, PYX::GraphViz, PYX::Utils.
+
+REPOSITORY
+    <https://github.com/tupinek/Task-PYX>
+
+AUTHOR
+    Michal Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+     © 2015 Michal Špaček
+     Artistic License
+     BSD 2-Clause License
+
+VERSION
+    0.01
+
