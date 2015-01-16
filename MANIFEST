@@ -14,6 +14,7 @@ MANIFEST			This list of files
 META.yml
 PYX.pm
 README
+SIGNATURE
 t/Task-PYX/00-use.t
 t/Task-PYX/01-version.t
 t/Task-PYX/02-pod_coverage.t
