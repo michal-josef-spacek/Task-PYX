@@ -27,6 +27,7 @@ Task::PYX - Install the PYX modules.
 
 L<PYX>,
 L<PYX::GraphViz>,
+L<PYX::Stack>,
 L<PYX::Utils>.
 
 =head1 REPOSITORY

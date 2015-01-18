@@ -5,7 +5,7 @@ SYNOPSIS
      cpanm Task::PYX
 
 SEE ALSO
-    PYX, PYX::GraphViz, PYX::Utils.
+    PYX, PYX::GraphViz, PYX::Stack, PYX::Utils.
 
 REPOSITORY
     <https://github.com/tupinek/Task-PYX>
