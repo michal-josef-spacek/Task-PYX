@@ -25,7 +25,7 @@ no_index:
     - inc
     - t
 requires:
-  PYX: 0.01
+  PYX: 0.02
   PYX::GraphViz: 0.02
   PYX::Utils: 0.02
   perl: 5.6.0

@@ -11,7 +11,7 @@ author 'Michal Spacek <skim@cpan.org>';
 license 'bsd';
 name 'Task-PYX';
 readme_from 'PYX.pm';
-requires 'PYX' => 0.01;
+requires 'PYX' => 0.02;
 requires 'PYX::GraphViz' => 0.02;
 requires 'PYX::Utils' => 0.02;
 requires 'perl' => '5.6.0';
