@@ -1,5 +1,6 @@
 0.02
  - Update PYX to 0.02 version.
+ - Update PYX::GraphViz to 0.03 version.
 
 0.01 2015-01-16T17:40:44+01:00
  - First version
