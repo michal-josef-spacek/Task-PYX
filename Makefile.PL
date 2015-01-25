@@ -13,6 +13,7 @@ name 'Task-PYX';
 readme_from 'PYX.pm';
 requires 'PYX' => 0.02;
 requires 'PYX::GraphViz' => 0.03;
+requires 'PYX::Hist' => 0.01;
 requires 'PYX::Stack' => 0.02;
 requires 'PYX::Utils' => 0.02;
 requires 'perl' => '5.6.0';
