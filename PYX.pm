@@ -28,6 +28,7 @@ Task::PYX - Install the PYX modules.
 L<PYX>,
 L<PYX::GraphViz>,
 L<PYX::Hist>,
+L<PYX::Parser>,
 L<PYX::Stack>,
 L<PYX::Utils>.
 

@@ -1,5 +1,6 @@
 0.03
  - Add PYX::Hist 0.01 version.
+ - Add missing PYX::Parser to SEE ALSO section in doc.
  - Update PYX::Stack to 0.02 version.
 
 0.02 2015-01-18T19:00:08+01:00
