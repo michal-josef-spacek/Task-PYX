@@ -28,7 +28,7 @@ requires:
   PYX: 0.02
   PYX::GraphViz: 0.03
   PYX::Hist: 0.01
-  PYX::Stack: 0.02
+  PYX::Stack: 0.03
   PYX::Utils: 0.02
   perl: 5.6.0
 resources:
