@@ -29,7 +29,7 @@ requires:
   PYX::GraphViz: 0.03
   PYX::Hist: 0.02
   PYX::Stack: 0.03
-  PYX::Utils: 0.02
+  PYX::Utils: 0.03
   perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-PYX
