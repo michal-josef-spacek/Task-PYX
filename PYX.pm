@@ -30,7 +30,8 @@ L<PYX::GraphViz>,
 L<PYX::Hist>,
 L<PYX::Parser>,
 L<PYX::Stack>,
-L<PYX::Utils>.
+L<PYX::Utils>,
+L<Tags::Output::PYX>.
 
 =head1 REPOSITORY
 

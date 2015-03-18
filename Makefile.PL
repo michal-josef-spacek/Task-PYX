@@ -17,6 +17,7 @@ requires 'PYX::Hist' => 0.02;
 requires 'PYX::Stack' => 0.03;
 requires 'PYX::Utils' => 0.03;
 requires 'PYX::XMLNorm' => 0.01;
+requires 'Tags::Output::PYX' => 0.01;
 requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Task-PYX';

@@ -5,7 +5,8 @@ SYNOPSIS
      cpanm Task::PYX
 
 SEE ALSO
-    PYX, PYX::GraphViz, PYX::Hist, PYX::Parser, PYX::Stack, PYX::Utils.
+    PYX, PYX::GraphViz, PYX::Hist, PYX::Parser, PYX::Stack, PYX::Utils,
+    Tags::Output::PYX.
 
 REPOSITORY
     <https://github.com/tupinek/Task-PYX>
