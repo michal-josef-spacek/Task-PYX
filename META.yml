@@ -28,7 +28,7 @@ requires:
   PYX: 0.03
   PYX::GraphViz: 0.03
   PYX::Hist: 0.02
-  PYX::Sort: 0.01
+  PYX::Sort: 0.02
   PYX::Stack: 0.03
   PYX::Utils: 0.03
   PYX::XMLNorm: 0.01

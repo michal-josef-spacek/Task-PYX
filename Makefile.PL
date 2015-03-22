@@ -14,7 +14,7 @@ readme_from 'PYX.pm';
 requires 'PYX' => 0.03;
 requires 'PYX::GraphViz' => 0.03;
 requires 'PYX::Hist' => 0.02;
-requires 'PYX::Sort' => 0.01;
+requires 'PYX::Sort' => 0.02;
 requires 'PYX::Stack' => 0.03;
 requires 'PYX::Utils' => 0.03;
 requires 'PYX::XMLNorm' => 0.01;
