@@ -19,6 +19,7 @@ requires 'PYX::Stack' => 0.03;
 requires 'PYX::Utils' => 0.03;
 requires 'PYX::XMLNorm' => 0.03;
 requires 'Tags::Output::PYX' => 0.01;
+requires 'XML::MinWriter' => 0.08;
 requires 'XML::PYX' => 0.07;
 requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.

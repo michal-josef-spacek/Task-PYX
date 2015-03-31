@@ -33,6 +33,7 @@ L<PYX::Stack>,
 L<PYX::Utils>,
 L<PYX::XMLNorm>,
 L<Tags::Output::PYX>,
+L<XML::MinWriter>,
 L<XML::PYX>.
 
 =head1 REPOSITORY

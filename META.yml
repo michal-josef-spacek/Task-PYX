@@ -33,6 +33,7 @@ requires:
   PYX::Utils: 0.03
   PYX::XMLNorm: 0.03
   Tags::Output::PYX: 0.01
+  XML::MinWriter: 0.08
   XML::PYX: 0.07
   perl: 5.6.0
 resources:
