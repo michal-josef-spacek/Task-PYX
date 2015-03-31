@@ -55,6 +55,10 @@ PYX common utilities for encoding and decoding data.
 
 Processing PYX data or file and do XML normalization.
 
+=item L<PYX::XMLSchema::List>
+
+Processing PYX data or file and print list of XML schemas.
+
 =item L<Tags::Output::PYX>
 
 Tags output to PYX format.
