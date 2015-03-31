@@ -31,7 +31,8 @@ L<PYX::Hist>,
 L<PYX::Parser>,
 L<PYX::Stack>,
 L<PYX::Utils>,
-L<Tags::Output::PYX>.
+L<Tags::Output::PYX>,
+L<XML::PYX>.
 
 =head1 REPOSITORY
 
