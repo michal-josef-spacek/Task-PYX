@@ -31,6 +31,7 @@ L<PYX::Hist>,
 L<PYX::Parser>,
 L<PYX::Stack>,
 L<PYX::Utils>,
+L<PYX::XMLNorm>,
 L<Tags::Output::PYX>,
 L<XML::PYX>.
 

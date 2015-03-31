@@ -6,7 +6,7 @@ SYNOPSIS
 
 SEE ALSO
     PYX, PYX::GraphViz, PYX::Hist, PYX::Parser, PYX::Stack, PYX::Utils,
-    Tags::Output::PYX, XML::PYX.
+    PYX::XMLNorm, Tags::Output::PYX, XML::PYX.
 
 REPOSITORY
     <https://github.com/tupinek/Task-PYX>
