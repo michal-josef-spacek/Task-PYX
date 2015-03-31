@@ -5,8 +5,34 @@ SYNOPSIS
      cpanm Task::PYX
 
 SEE ALSO
-    PYX, PYX::GraphViz, PYX::Hist, PYX::Parser, PYX::Stack, PYX::Utils,
-    PYX::XMLNorm, Tags::Output::PYX, XML::MinWriter, XML::PYX.
+    PYX Common PYX handling module.
+
+    PYX::GraphViz
+        GraphViz output for PYX handling.
+
+    PYX::Hist
+        Processing PYX data or file and print histogram.
+
+    PYX::Parser
+        PYX parser.
+
+    PYX::Stack
+        Processing PYX data or file and process element stack.
+
+    PYX::Utils
+        PYX common utilities for encoding and decoding data.
+
+    PYX::XMLNorm
+        Processing PYX data or file and do XML normalization.
+
+    Tags::Output::PYX
+        Tags output to PYX format.
+
+    XML::MinWriter
+        Perl extension for writing XML in PYX format.
+
+    XML::PYX
+        PYX parser based on XML::Parser.
 
 REPOSITORY
     <https://github.com/tupinek/Task-PYX>
