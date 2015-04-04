@@ -47,6 +47,10 @@ PYX parser.
 
 Processing PYX data or file and write as SGML.
 
+=item L<PYX::Sort>
+
+Processing PYX data or file and sort element attributes.
+
 =item L<PYX::Stack>
 
 Processing PYX data or file and process element stack.

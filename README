@@ -19,6 +19,9 @@ SEE ALSO
     PYX::SGML::Raw
         Processing PYX data or file and write as SGML.
 
+    PYX::Sort
+        Processing PYX data or file and sort element attributes.
+
     PYX::Stack
         Processing PYX data or file and process element stack.
 
