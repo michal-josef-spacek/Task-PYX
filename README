@@ -16,6 +16,9 @@ SEE ALSO
     PYX::Parser
         PYX parser.
 
+    PYX::SGML::Raw
+        Processing PYX data or file and write as SGML.
+
     PYX::Stack
         Processing PYX data or file and process element stack.
 

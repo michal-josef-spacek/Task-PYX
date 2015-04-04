@@ -43,6 +43,10 @@ Processing PYX data or file and print histogram.
 
 PYX parser.
 
+=item L<PYX::SGML::Raw>
+
+Processing PYX data or file and write as SGML.
+
 =item L<PYX::Stack>
 
 Processing PYX data or file and process element stack.
