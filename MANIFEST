@@ -1,5 +1,7 @@
 Changes
 inc/Module/Install.pm
+inc/Module/Install/AuthorRequires.pm
+inc/Module/Install/AuthorTests.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
 inc/Module/Install/Fetch.pm
@@ -15,7 +17,7 @@ META.yml
 PYX.pm
 README
 SIGNATURE
-t/Task-PYX/00-use.t
-t/Task-PYX/01-version.t
-t/Task-PYX/02-pod_coverage.t
-t/Task-PYX/03-pod.t
+t/Task-PYX/01-use.t
+t/Task-PYX/02-version.t
+xt/Task-PYX/01-pod_coverage.t
+xt/Task-PYX/02-pod.t
