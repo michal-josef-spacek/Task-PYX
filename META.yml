@@ -28,7 +28,7 @@ requires:
   PYX::SGML::Raw: 0.01
   PYX::Sort: 0.02
   PYX::Stack: 0.03
-  PYX::Utils: 0.03
+  PYX::Utils: 0.04
   PYX::XMLNorm: 0.03
   PYX::XMLSchema::List: 0.01
   Tags::Output::PYX: 0.01
