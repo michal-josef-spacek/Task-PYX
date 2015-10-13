@@ -27,7 +27,7 @@ requires:
   PYX::Hist: 0.03
   PYX::SGML::Raw: 0.01
   PYX::Sort: 0.02
-  PYX::Stack: 0.03
+  PYX::Stack: 0.04
   PYX::Utils: 0.04
   PYX::XMLNorm: 0.03
   PYX::XMLSchema::List: 0.01
