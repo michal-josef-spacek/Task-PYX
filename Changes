@@ -2,6 +2,7 @@
  - Move author tests to xt/ directory.
  - Update Module::Install to 1.16 version.
  - Update PYX to 0.04 version.
+ - Update PYX::GraphViz to 0.04 version.
  - Update PYX::Hist to 0.03 version.
  - Update PYX::Utils to 0.04 version.
 

@@ -23,7 +23,7 @@ no_index:
     - xt
 requires:
   PYX: 0.04
-  PYX::GraphViz: 0.03
+  PYX::GraphViz: 0.04
   PYX::Hist: 0.03
   PYX::SGML::Raw: 0.01
   PYX::Sort: 0.02
