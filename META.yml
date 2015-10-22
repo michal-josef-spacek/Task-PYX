@@ -29,7 +29,7 @@ requires:
   PYX::Sort: 0.03
   PYX::Stack: 0.04
   PYX::Utils: 0.04
-  PYX::XMLNorm: 0.03
+  PYX::XMLNorm: 0.04
   PYX::XMLSchema::List: 0.01
   Tags::Output::PYX: 0.03
   XML::MinWriter: 0.08
