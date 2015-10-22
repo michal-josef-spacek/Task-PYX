@@ -5,7 +5,7 @@ SYNOPSIS
      cpanm Task::PYX
 
 SEE ALSO
-    PYX Common PYX handling module.
+    PYX A perl module for PYX handling.
 
     PYX::GraphViz
         GraphViz output for PYX handling.

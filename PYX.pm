@@ -29,7 +29,7 @@ Task::PYX - Install the PYX modules.
 
 =item L<PYX>
 
-Common PYX handling module.
+A perl module for PYX handling.
 
 =item L<PYX::GraphViz>
 
