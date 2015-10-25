@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.70.
+signed via the Module::Signature module, version 0.79.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,34 +14,36 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 0c9c99aacaca4e86501899c9755ee2f3c84f1f6f Changes
+SHA1 82880fb8068f7eca444dd5a6305cd2a330ca06b8 Changes
 SHA1 fda23a0b314432c4a81e8d7beb5290e9f0219c73 LICENSE
-SHA1 99d24a024d2e34fe84d217bf3d20d7ba12bc735e MANIFEST
-SHA1 1ebb63b1c9b429e6a4cf785f860d80c0dcb6f9d9 META.yml
-SHA1 f4f8574219f61ba801178ffc34b8e7e29dbdf04b Makefile.PL
-SHA1 2ba48da0de24a2f74a2d1bf86fabacca7f841ec1 PYX.pm
-SHA1 4ba2338d3a58a83c44e1e41a58bc20154adf28dc README
-SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
-SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
-SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
-SHA1 e7152bfd5ca67d0e33f96d09c59d600bca5c1f15 inc/Module/Install/Fetch.pm
-SHA1 29ee1cb0dc262b00983e3a2f5cf00b538dff5069 inc/Module/Install/Makefile.pm
-SHA1 e963f80cfe255f16e55067d1feb6841cff3ed2fe inc/Module/Install/Metadata.pm
+SHA1 b43e2e6f6ce39911e3f3d3979ed988e7a307cd15 MANIFEST
+SHA1 bc4efb2f94f79cad21424ac53a04b0fc0410d109 META.yml
+SHA1 754dc14bd664edef5a6a72415ccc49674f6fe37d Makefile.PL
+SHA1 27e7c077639ac3bf176f0dbe1f825c21bfdbb4fd PYX.pm
+SHA1 b9a207de9fb0ac2f55c76138d0cd81e532101edc README
+SHA1 bce3c51bb369419603298064b78e14077b93af66 inc/Module/Install.pm
+SHA1 5c1a9d3a384a5262cbc105ab76d446047904c7fa inc/Module/Install/AuthorRequires.pm
+SHA1 d001b4b9a48395a8c4134b234a0e1789138427c5 inc/Module/Install/AuthorTests.pm
+SHA1 fe220f215f645500ce8f14ff5e19d9a28692af56 inc/Module/Install/Base.pm
+SHA1 b56ed8e42c600e08007d152cf0b1438a7c3b7f6e inc/Module/Install/Can.pm
+SHA1 99c531a17a67ce5250df2ae151cc48c80d914cde inc/Module/Install/Fetch.pm
+SHA1 76efdca3603159e0ae0e18f19fe72a0211a69529 inc/Module/Install/Makefile.pm
+SHA1 2e33e87882d60db3913da6284dd5295e5315e18a inc/Module/Install/Metadata.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
-SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
-SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
-SHA1 277aa71fb153457b834d640a238790577c6599b4 t/Task-PYX/00-use.t
-SHA1 229e13fbb27fedaded8d9e68c8da41f8071635c8 t/Task-PYX/01-version.t
-SHA1 88d2baec8ee89b21eba794bfe8a4e6a0e6a3f161 t/Task-PYX/02-pod_coverage.t
-SHA1 3c8bea75fb30827bf6c294fa7273809c6e8c825c t/Task-PYX/03-pod.t
+SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
+SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
+SHA1 277aa71fb153457b834d640a238790577c6599b4 t/Task-PYX/01-use.t
+SHA1 25507c0187101e26a96b834f045efa16f696d6c2 t/Task-PYX/02-version.t
+SHA1 88d2baec8ee89b21eba794bfe8a4e6a0e6a3f161 xt/Task-PYX/01-pod_coverage.t
+SHA1 3c8bea75fb30827bf6c294fa7273809c6e8c825c xt/Task-PYX/02-pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
+Version: GnuPG v1
 
-iQEcBAEBAgAGBQJVIGemAAoJEJe+XXKaIuTlC9gH/2l9SjpBCIasPkAd4Uc7R7Mr
-+t2tEWSQtyxei9vl6UBdWKuS5ceLM2UKz0ygSIhdxK5NXb7hg8VPmAjWtxgezrl1
-7QoLHBAcojeXaNEyOvhQlE63eZl70FPiB9h4JMLm9QMA5+1pEP4oHVhzyxvl1XC4
-hlaiGvZinboDUt59cliPXjQsOnuTBBV5uLqM8R8vfqOKsvzrb9TlNxGPA2PhzIvt
-/CAoVcxkbH0gV83W+jB/lDT7fZpCl9Ayp1LPtlyOlpJ20xxgdmErXA2fpxl86Abc
-Sz3xS9tDj2mKy0g/kP/aOhskfaXVaWjwnQxLwis0WeG3XQSB8g/P7RTqZj04/nI=
-=lR+Z
+iQEcBAEBAgAGBQJWLQZwAAoJEJe+XXKaIuTl5HUH/Rh1paMtt/+Vui9dCLDM816J
+GlBFmL30moEOJLSA2tiMmis93DvF1zMQLnInbSfgMhyHH2BkmTMBo3pdtytVnB1O
+fp0rPyMBK9L2uLhh27CytkwoarByUns80mkaeIhjbKY1mjQ3U2j0pPBg7AKQihoK
+z6n4CWfko11fcxNkjKDcQbMKfgyd9z5t905O8n0pdoUDlRNmvCFQjjjCIP56aIHy
+xWGz31PvExZ+xhXn1lZ38lGb0b4PyCWUmCI5fLnR4vSuXyfYSU5gltRj83o28pHv
+f10S9JRoxdv6pCW1AURTyL+MWaspNX+Ry7MzgWZLwAIc2QJ6064Vk6sJOtfxVN4=
+=4oBi
 -----END PGP SIGNATURE-----
