@@ -27,6 +27,10 @@ Task::PYX - Install the PYX modules.
 
 =over
 
+=item L<App::PYX2XML>
+
+Perl class for pyx2xml application.
+
 =item L<PYX>
 
 A perl module for PYX handling.

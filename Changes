@@ -1,4 +1,5 @@
 0.09
+ - Add App::PYX2XML 0.01 version.
  - Add PYX::SGML::Raw 0.01 version.
  - Update PYX::XMLSchema::List to 0.04 version.
  - Update copyright years.

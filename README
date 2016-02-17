@@ -5,6 +5,9 @@ SYNOPSIS
      cpanm Task::PYX
 
 SEE ALSO
+    App::PYX2XML
+        Perl class for pyx2xml application.
+
     PYX A perl module for PYX handling.
 
     PYX::GraphViz
