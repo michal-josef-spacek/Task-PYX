@@ -25,7 +25,7 @@ requires:
   App::PYX2XML: 0.01
   PYX: 0.04
   PYX::GraphViz: 0.04
-  PYX::Hist: 0.03
+  PYX::Hist: 0.04
   PYX::SGML::Raw: 0.02
   PYX::SGML::Tags: 0.01
   PYX::Sort: 0.03

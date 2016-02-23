@@ -21,7 +21,7 @@ recursive_author_tests('xt');
 requires 'App::PYX2XML' => 0.01;
 requires 'PYX' => 0.04;
 requires 'PYX::GraphViz' => 0.04;
-requires 'PYX::Hist' => 0.03;
+requires 'PYX::Hist' => 0.04;
 requires 'PYX::SGML::Raw' => 0.02;
 requires 'PYX::SGML::Tags' => 0.01;
 requires 'PYX::Sort' => 0.03;

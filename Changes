@@ -1,4 +1,5 @@
 0.10
+ - Update PYX::Hist to 0.04 version.
 
 0.09 2016-02-17T12:02:11+01:00
  - Add App::PYX2XML 0.01 version.
