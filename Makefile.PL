@@ -29,6 +29,7 @@ requires 'PYX::Stack' => 0.04;
 requires 'PYX::Utils' => 0.04;
 requires 'PYX::XMLNorm' => 0.04;
 requires 'PYX::XMLSchema::List' => 0.04;
+requires 'SGML::PYX' => 0.02;
 requires 'Tags::Output::PYX' => 0.03;
 requires 'XML::MinWriter' => 0.08;
 requires 'XML::PYX' => 0.07;

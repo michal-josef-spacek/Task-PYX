@@ -75,6 +75,10 @@ Processing PYX data or file and do XML normalization.
 
 Processing PYX data or file and print list of XML schemas.
 
+=item L<SGML::PYX>
+
+Convertor between SGML and PYX.
+
 =item L<Tags::Output::PYX>
 
 Tags output to PYX format.
