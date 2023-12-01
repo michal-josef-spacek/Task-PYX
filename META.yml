@@ -34,7 +34,7 @@ requires:
   PYX::XMLNorm: 0.05
   PYX::XMLSchema::List: 0.06
   SGML::PYX: 0.07
-  Tags::Output::PYX: 0.03
+  Tags::Output::PYX: 0.05
   XML::MinWriter: 0.08
   XML::PYX: 0.07
   perl: 5.6.0

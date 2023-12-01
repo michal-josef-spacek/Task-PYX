@@ -16,6 +16,7 @@
  - Update PYX::XMLNorm to 0.05 version.
  - Update PYX::XMLSchema::List to 0.06 version.
  - Update SGML::PYX to 0.07 version.
+ - Update Tags::Output::PYX to 0.05 version.
  - Update author github username.
  - Update author name.
  - Update copyright years.
