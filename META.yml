@@ -24,7 +24,7 @@ no_index:
 requires:
   App::PYX2XML: 0.07
   PYX: 0.1
-  PYX::GraphViz: 0.04
+  PYX::GraphViz: 0.06
   PYX::Hist: 0.04
   PYX::SGML::Raw: 0.02
   PYX::SGML::Tags: 0.01
