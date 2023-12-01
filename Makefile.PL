@@ -17,7 +17,7 @@ license 'bsd';
 name 'Task-PYX';
 readme_from 'PYX.pm';
 recursive_author_tests('xt');
-requires 'App::PYX2XML' => 0.01;
+requires 'App::PYX2XML' => 0.07;
 requires 'PYX' => 0.04;
 requires 'PYX::GraphViz' => 0.04;
 requires 'PYX::Hist' => 0.04;

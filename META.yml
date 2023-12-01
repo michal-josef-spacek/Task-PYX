@@ -22,7 +22,7 @@ no_index:
     - t
     - xt
 requires:
-  App::PYX2XML: 0.01
+  App::PYX2XML: 0.07
   PYX: 0.04
   PYX::GraphViz: 0.04
   PYX::Hist: 0.04
