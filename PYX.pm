@@ -1,10 +1,8 @@
 package Task::PYX;
 
-# Pragmas.
 use strict;
 use warnings;
 
-# Version.
 our $VERSION = 0.10;
 
 1;
