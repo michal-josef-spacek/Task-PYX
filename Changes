@@ -8,6 +8,7 @@
  - Update PYX to 0.10 version.
  - Update PYX::GraphViz to 0.06 version.
  - Update PYX::Hist to 0.08 version.
+ - Update PYX::SGML::Raw to 0.05 version.
  - Update author github username.
  - Update author name.
  - Update copyright years.
