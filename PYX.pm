@@ -93,7 +93,7 @@ PYX parser based on XML::Parser.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Task-PYX>
+L<https://github.com/michal-josef-spacek/Task-PYX>
 
 =head1 AUTHOR
 

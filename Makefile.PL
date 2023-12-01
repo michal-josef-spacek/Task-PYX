@@ -35,8 +35,8 @@ requires 'XML::PYX' => 0.07;
 requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Task-PYX';
-resources 'homepage' => 'https://github.com/tupinek/Task-PYX';
-resources 'repository' => 'git://github.com/tupinek/Task-PYX';
+resources 'homepage' => 'https://github.com/michal-josef-spacek/Task-PYX';
+resources 'repository' => 'git://github.com/michal-josef-spacek/Task-PYX';
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
 tests_recursive;

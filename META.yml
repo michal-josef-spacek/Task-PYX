@@ -40,7 +40,7 @@ requires:
   perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-PYX
-  homepage: https://github.com/tupinek/Task-PYX
+  homepage: https://github.com/michal-josef-spacek/Task-PYX
   license: http://opensource.org/licenses/bsd-license.php
-  repository: git://github.com/tupinek/Task-PYX
+  repository: git://github.com/michal-josef-spacek/Task-PYX
 version: '0.10'
