@@ -27,7 +27,7 @@ requires:
   PYX::GraphViz: 0.06
   PYX::Hist: 0.08
   PYX::SGML::Raw: 0.05
-  PYX::SGML::Tags: 0.01
+  PYX::SGML::Tags: 0.1
   PYX::Sort: 0.03
   PYX::Stack: 0.04
   PYX::Utils: 0.04
