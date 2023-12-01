@@ -105,9 +105,11 @@ L<http://skim.cz>
 
 =head1 LICENSE AND COPYRIGHT
 
- © 2015-2016 Michal Josef Špaček
- Artistic License
- BSD 2-Clause License
+© 2015-2016 Michal Josef Špaček
+
+Artistic License
+
+BSD 2-Clause License
 
 =head1 VERSION
 

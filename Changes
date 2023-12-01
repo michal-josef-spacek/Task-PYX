@@ -1,5 +1,6 @@
 0.10
  - Add SGML::PYX 0.02 version.
+ - Improve LICENSE AND COPYRIGHT section in doc.
  - Update Module::Install to 1.21 version.
  - Update PYX::Hist to 0.04 version.
  - Update author name.
