@@ -1,4 +1,4 @@
-0.10
+0.10 2023-12-01T15:02:20+01:00
  - Add SGML::PYX 0.02 version.
  - Fix use lib '.' in Makefile.PL.
  - Improve LICENSE AND COPYRIGHT section in doc.
