@@ -2,6 +2,7 @@
  - Add SGML::PYX 0.02 version.
  - Update Module::Install to 1.21 version.
  - Update PYX::Hist to 0.04 version.
+ - Update author name.
 
 0.09 2016-02-17T12:02:11+01:00
  - Add App::PYX2XML 0.01 version.
